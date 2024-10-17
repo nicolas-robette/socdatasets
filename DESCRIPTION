@@ -4,7 +4,7 @@ Title: Collection of open data sets for social sciences
 Version: 0.1.0
 Authors@R: c(person("Nicolas", "Robette", role = c("aut", "cre"), email = "nicolas.robette@uvsq.fr"))
 Description: Collection of open data sets for social sciences. These mostly come from French public statistic departments, research surveys, pedagogical initiatives and replication packages.
-URL: https://github.com/nicolas-robette/socdatasets
+URL: https://github.com/nicolas-robette/socdatasets, https://nicolas-robette.github.io/socdatasets/
 License: GPL (>= 2)
 Encoding: UTF-8
 Depends: 

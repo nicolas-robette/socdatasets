@@ -1,0 +1,25 @@
+url: https://nicolas-robette.github.io/socdatasets/
+
+template:
+  bootstrap: 5
+
+authors:
+  Nicolas Robette:
+    href: https://github.com/nicolas-robette
+
+reference:
+
+- title: Datasets
+- desc: Datasets for social sciences
+- contents:
+  - drees
+  - baronum
+  - injep
+  - billion
+  - deco
+  - epcv
+  - fecond
+  - hdv
+  - political
+  - sven
+  - tdt

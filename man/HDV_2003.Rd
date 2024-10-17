@@ -1,7 +1,7 @@
 \name{hdv}
 \alias{hdv}
 \docType{data}
-\title{Enquête Histoire de vie (Insee, 2003)}
+\title{Enquête "Histoire de vie"" (Insee, 2003)}
 
 \description{
 Enquête "Histoire de vie - Construction des identités", réalisée par l'Insee en 2003.
