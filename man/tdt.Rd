@@ -7,7 +7,7 @@
 Données de l'enquête emmenée par Jean-Claude Passeron et Emmanuel Pedler en 1987. Les enquêteurs ont suivi les visiteurs du musée Granet d'Aix-en-Provence, chronomètre en main, avec pour objectif de mettre en évidence les ressorts sociaux du « temps donné aux tableaux ».
 }
 
-\usage{data("Tableaux")}
+\usage{data("tdt")}
 
 \format{
   Data frame avec 144 observations et 37 variables.

@@ -1,13 +1,13 @@
 \name{baronum}
 \alias{baronum}
 \docType{data}
-\title{Baromètre du Numérique (2022)}
+\title{Baromètre du Numérique (2023)}
 
 \description{
 Le Baromètre du Numérique est une étude de référence sur l’adoption par les Français des équipements et des usages numériques. Il est le fruit d’une collaboration entre l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (Arcep), le Conseil général de l'économie (CGE), le Programme Société Numérique de l’ANCT, à laquelle s’est jointe l’Arcom en 2022.
 }
 
-\usage{data("Barometre_numerique_2022")}
+\usage{data("baronum")}
 
 \format{
   Data frame avec 4184 observations et 255 variables.

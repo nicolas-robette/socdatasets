@@ -9,7 +9,7 @@ Données d'une enquête postélectorale SOFRES/Libération/CEVIPOF/CIDSP-Grenobl
 Elle comportait des questions relatives aux attitudes politiques et idéologiques, aux thèmes de campagne, à la confiance dans la gauche et la droite, aux conditions du choix aux élections législatives, aux conditions de vie et aux perspectives économiques, à la politisation et au fonctionnement de la démocratie et enfin au processus d'unification européenne.
 }
 
-\usage{data("Political_space_1997")}
+\usage{data("political")}
 
 \format{
   Data frame avec 2980 observations et 22 variables.

@@ -8,7 +8,7 @@ L'enquête "Styles de vie et Environnement"" (SVEN) propose d’explorer conjoin
 Elle s'est déroulée en novembre 2017, pendant la phase élargie du panel ELIPSS.
 }
 
-\usage{data("Sven_2017")}
+\usage{data("sven")}
 
 \format{
   Data frame avec 2362 observations et 56 variables.

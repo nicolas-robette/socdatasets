@@ -7,7 +7,7 @@
 Enquête "Histoire de vie - Construction des identités", réalisée par l'Insee en 2003.
 }
 
-\usage{data("HDV_2003")}
+\usage{data("hdv")}
 
 \format{
   Data frame avec 8403 observations et 814 variables.

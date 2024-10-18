@@ -7,7 +7,7 @@
 Le baromètre national des pratiques sportives est réalisé par l'INJEP et destiné à suivre les grandes évolutions de la pratique sportive des Français de 15 ans et plus.
 }
 
-\usage{data("Barometre_sports_2018")}
+\usage{data("injep")}
 
 \format{
   Data frame avec 4061 observations et 36 variables.

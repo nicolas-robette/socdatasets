@@ -9,7 +9,7 @@ Le dispositif de recherche FECOND analyse les évolutions des pratiques contrace
 Un dispositif en quatre temps a été conçu pour répondre à cette problématique : un premier volet par téléphone, un deuxième sur Internet fixe, un troisième randomisé entre téléphone et Intenet fixe et un quatrième mené auprès du panel ELIPSS. C'est ce dernier volet dont il est question ici.
 }
 
-\usage{data("Fecond_2013")}
+\usage{data("fecond")}
 
 \format{
   Data frame avec 883 observations et 51 variables.

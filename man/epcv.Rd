@@ -9,7 +9,7 @@ Enquête EPCV - Participation Culturelle et Sportive (Insee, 2003)
 Enquête permanente des conditions de vie (EPCV), réalisée par l'INSEE en 2003, sur le thème de la participation culturelle et sportive.
 }
 
-\usage{data("EPCV_2003")}
+\usage{data("epcv")}
 
 \format{
   Data frame avec 5626 observations et 578 variables

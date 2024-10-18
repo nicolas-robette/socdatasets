@@ -9,7 +9,7 @@ Les données sont reprises du "replication package" de Ischinsky & Tisch (2022).
 Ces données sont particulièrement adaptées à l'analyse de durées en présence de censure à droite.
 }
 
-\usage{data("Billionaires")}
+\usage{data("billion")}
 
 \format{
   Data frame avec 4920 observations et 15 variables.
@@ -27,7 +27,7 @@ Ces données sont particulièrement adaptées à l'analyse de durées en présen
     \item{\code{age}}{(numeric) âge au début de l'épisode de présence dans le classement}
     \item{\code{worth_def}}{(numeric) fortune}
     \item{\code{continent}}{(character) continent d'origine}
-    \item{\code{origin}}{(origine de la fortune (héritée ou "self-made"))}
+    \item{\code{origin}}{(factor) origine de la fortune (héritée ou "self-made")}
     \item{\code{sex}}{(factor) sexe}
     }
 }

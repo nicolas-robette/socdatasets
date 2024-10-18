@@ -9,7 +9,7 @@ Ces données sont extraites du Panel Suisse des Ménages et traitent du processu
 Elles sont particulièrement adaptées à l'analyse de durées sur données censurées à droite.
 }
 
-\usage{data("Decohabitation")}
+\usage{data("deco")}
 
 \format{
   Data frame avec 5560 observations et 11 variables.
