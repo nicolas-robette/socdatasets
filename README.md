@@ -38,3 +38,4 @@ install_github("nicolas-robette/socdatasets")
 - Enquête "Styles de vie et Environnement" (2017)
 - Enquête "Le temps donné aux tableaux" (Passeron & Pedler, 1987)
 - Films sortis au cinéma en France en 2016
+- Résultats du 1er tour des élections présidentielles françaises de 2022 (échelle communale)

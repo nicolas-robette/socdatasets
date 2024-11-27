@@ -32,9 +32,7 @@ L'ensemble des films sortis au cinéma en France en 2016, avec un certain nombre
 
 \source{
 Les données ont été rassemblées à l'aide de diverses sources : données ouvertes du CNC (Centre National du Cinéma et de l'Image Animée), Allociné...
-}
 
-\references{
 \url{https://www.cnc.fr/}
 }
 
