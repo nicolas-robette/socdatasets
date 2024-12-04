@@ -8,6 +8,7 @@ Elles concernent principalement la France et sont issues de différentes sources
 - baromètres
 - enquêtes de recherche, partagées avec la communauté scientifique
 - données pour réplication associées à des articles ou ouvrages scientifiques
+- données ouvertes
 - ...
 
 ## Installation
@@ -40,3 +41,5 @@ install_github("nicolas-robette/socdatasets")
 - Films sortis au cinéma en France en 2016
 - Résultats du 1er tour des élections présidentielles françaises de 2022 (échelle communale)
 - Indicateurs démographiques sur les pays du monde en 2023
+
+Y figure aussi la liste exhaustive des PCS 2003 de l'INSEE et le tableau des équivalences entre ses différents niveaux.
