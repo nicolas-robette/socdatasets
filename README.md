@@ -37,6 +37,8 @@ install_github("nicolas-robette/socdatasets")
 - Enquête Emploi en continu (Insee, 2022)
 - Enquête post-électorale CEVIPOF (1997)
 - Enquête "Styles de vie et Environnement" (2017)
+- Enquête "Trajectoires et Origines" (Ined, 2008)
+- Enquête sur les Relations Familiales et Intergénérationnelles (Ined, 2005)
 - Enquête "Le temps donné aux tableaux" (Passeron & Pedler, 1987)
 - Films sortis au cinéma en France en 2016
 - Résultats du 1er tour des élections présidentielles françaises de 2022 (échelle communale)
